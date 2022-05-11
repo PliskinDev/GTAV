@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GTAV", "GTAV\GTAV.vcxproj", "{AC2B17F7-40AE-48A0-AFCE-184B68B5A8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2B17F7-40AE-48A0-AFCE-184B68B5A8A5}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{AC2B17F7-40AE-48A0-AFCE-184B68B5A8A5}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{AC2B17F7-40AE-48A0-AFCE-184B68B5A8A5}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{AC2B17F7-40AE-48A0-AFCE-184B68B5A8A5}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
