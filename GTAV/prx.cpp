@@ -13,11 +13,11 @@ void print(const char* str, int ms = 4000)
 	UI::END_TEXT_COMMAND_PRINT(ms, 1);
 }
 
-void* main_thread(void* nothing)
+void* main_thread(void*)
 {
 	sceKernelSleep(10);
 	print("Hello Sprx", 1000);
-	scePthreadExit(nothing);
+	scePthreadExit(0);
 }
 
 ScePthread threadid;
