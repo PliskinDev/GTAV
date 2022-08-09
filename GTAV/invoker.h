@@ -18,7 +18,7 @@ struct NativeArg_s
 };
 
 uint64_t i[30];
-static Native_s** NativeTable = (Native_s**)0x3F64028;
+static Native_s** NativeTable = (Native_s**)0x4360028;
 static NativeArg_s NativeArg;
 
 void CallHash(uint64_t hash)
